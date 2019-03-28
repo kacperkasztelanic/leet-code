@@ -1,0 +1,18 @@
+package solutions.scala
+
+object N263 extends App {
+
+  def isUgly(n: Int): Boolean = {
+    if (n <= 0) false
+    else if (n == 1) true
+    else if (n % 2 == 0) isUgly(n / 2)
+    else if (n % 3 == 0) isUgly(n / 3)
+    else if (n % 5 == 0) isUgly(n / 5)
+    else false
+  }
+
+  def isUgly2(n: Int): Boolean =
+    n > 0 && (n == 1 || List(2, 3, 5).exists(x => n % x == 0 && isUgly2(n / x)))
+
+  println(isUgly2(10))
+}
