@@ -26,8 +26,66 @@ public class Parentheses {
         return stack.isEmpty();
     }
 
+    public static int longestValidBrackets(String s) {
+        int maxLength = 0;
+        int left = 0;
+        int right = 0;
+        for (Character c : s.toCharArray()) {
+            if (c.equals('(')) {
+                left++;
+            } else {
+                right++;
+            }
+            if (left == right) {
+                maxLength = Math.max(maxLength, 2 * right);
+            } else if (right >= left) {
+                left = 0;
+                right = 0;
+            }
+        }
+        left = 0;
+        right = 0;
+        for (int i = s.length() - 1; i >= 0; i--) {
+            if (s.charAt(i) == '(') {
+                left++;
+            } else {
+                right++;
+            }
+            if (left == right) {
+                maxLength = Math.max(maxLength, 2 * left);
+            } else if (left >= right) {
+                left = 0;
+                right = 0;
+            }
+        }
+        return maxLength;
+    }
+
+    public static int longestValidBracketsStack(String s) {
+        int maxLength = 0;
+        Deque<Integer> stack = new ArrayDeque<>();
+        stack.push(-1);
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '(') {
+                stack.push(i);
+            } else {
+                stack.pop();
+                if (stack.isEmpty()) {
+                    stack.push(i);
+                } else {
+                    maxLength = Math.max(maxLength, i - stack.peek());
+                }
+            }
+        }
+        return maxLength;
+    }
+
     public static void main(String[] args) {
         System.out.println(Parentheses.isValid("({({})([])})"));
         System.out.println(Parentheses.isValid("]"));
+        System.out.println(Parentheses.longestValidBrackets("())(())"));
+        System.out.println(Parentheses.longestValidBrackets(")()())"));
+        System.out.println(Parentheses.longestValidBracketsStack("())(())"));
+        System.out.println(Parentheses.longestValidBracketsStack(")()())"));
     }
 }

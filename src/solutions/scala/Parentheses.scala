@@ -45,4 +45,24 @@ object Parentheses extends App {
 
   println(validParentheses("({({})([])})"))
   println(validParentheses("]"))
+
+  def longestValidBrackets(s: String): Int = {
+    @tailrec
+    def longestValidBrackets(l: List[Char], stack: List[Int], n: Int, maxLength: Int): Int = {
+      l match {
+        case Nil => maxLength
+        case h :: t =>
+          if (h == '(') longestValidBrackets(t, n :: stack, n + 1, maxLength)
+          else {
+            if (stack.tail.isEmpty) longestValidBrackets(t, n :: stack.tail, n + 1, maxLength)
+            else longestValidBrackets(t, stack.tail, n + 1, Math.max(maxLength, n - stack.tail.head))
+          }
+      }
+    }
+
+    longestValidBrackets(s.toList, List(-1), 0, 0)
+  }
+
+  println(longestValidBrackets("())(())"))
+  println(longestValidBrackets(")()())"))
 }
