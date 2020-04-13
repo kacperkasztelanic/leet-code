@@ -1,10 +1,10 @@
-package solutions.scala.excel
+package solutions.scala
 
 import scala.annotation.tailrec
 
-object ExcelColumnsImpl extends ExcelColumns {
+object N168N171ExcelColumn {
 
-  override def getIndex(s: String): Int = {
+  def getIndex(s: String): Int = {
     val numericValue = (c: Char) => c.getNumericValue - 9
     val multiplier = 'Z' - 'A' + 1
 
@@ -19,7 +19,7 @@ object ExcelColumnsImpl extends ExcelColumns {
     getIndex(s.toList, 0)
   }
 
-  override def getLetters(n: Int): String = {
+  def getLetters(n: Int): String = {
     @tailrec
     def getLetters(n: Int, acc: List[Char]): List[Char] = {
       if (n == 0) acc
@@ -31,5 +31,13 @@ object ExcelColumnsImpl extends ExcelColumns {
     }
 
     getLetters(n, Nil).mkString
+  }
+
+  def main(args: Array[String]): Unit = {
+    val indexTests = Map("A" -> 1, "Z" -> 26, "AA" -> 27, "ZZ" -> 702, "AAA" -> 703, "BZW" -> 2051, "CAA" -> 2055, "DZA" -> 3381)
+    lazy val letterTests = for ((k, v) <- indexTests) yield (v, k)
+
+    indexTests.foreach(e => println(N168N171ExcelColumn.getIndex(e._1) == e._2))
+    letterTests.foreach(e => println(N168N171ExcelColumn.getLetters(e._1) == e._2))
   }
 }

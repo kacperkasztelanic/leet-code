@@ -2,7 +2,7 @@ package solutions.scala
 
 import scala.annotation.tailrec
 
-object N21 extends App {
+object N21MergeTwoSortedLists {
 
   def mergeTwoLists(l1: List[Int], l2: List[Int]): List[Int] = {
     @tailrec
@@ -20,8 +20,6 @@ object N21 extends App {
     mergeTwoLists(l1, l2, Nil)
   }
 
-  println(mergeTwoLists(List(1, 5, 10), List(4, 5, 11, 12)))
-
   case class ListNode(var x: Int = 0, var next: ListNode = null)
 
   def mergeTwoLists(l1: ListNode, l2: ListNode): ListNode = {
@@ -31,7 +29,8 @@ object N21 extends App {
       else if (ll1.next == null) {
         ll1.next = ll2
         head
-      } else append(ll1.next, ll2, head)
+      }
+      else append(ll1.next, ll2, head)
     }
 
     @tailrec
@@ -48,6 +47,8 @@ object N21 extends App {
     mergeTwoLists(l1, l2, null)
   }
 
-
-  println(mergeTwoLists(ListNode(1, ListNode(5, ListNode(10))), ListNode(4, ListNode(5, ListNode(11, ListNode(12))))))
+  def main(args: Array[String]): Unit = {
+    println(mergeTwoLists(List(1, 5, 10), List(4, 5, 11, 12)))
+    println(mergeTwoLists(ListNode(1, ListNode(5, ListNode(10))), ListNode(4, ListNode(5, ListNode(11, ListNode(12))))))
+  }
 }

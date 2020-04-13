@@ -5,7 +5,7 @@ import java.util.Deque;
 import java.util.Map;
 import java.util.Set;
 
-public class Parentheses {
+public class N20N32Parentheses {
 
     private static final Set<Character> OPENING = Set.of('(', '[', '{');
     private static final Map<Character, Character> EQUIVALENCES = Map.of(')', '(', ']', '[', '}', '{');
@@ -26,7 +26,7 @@ public class Parentheses {
         return stack.isEmpty();
     }
 
-    public static int longestValidBrackets(String s) {
+    public static int longestValidParentheses(String s) {
         int maxLength = 0;
         int left = 0;
         int right = 0;
@@ -61,7 +61,7 @@ public class Parentheses {
         return maxLength;
     }
 
-    public static int longestValidBracketsStack(String s) {
+    public static int longestValidParenthesesStack(String s) {
         int maxLength = 0;
         Deque<Integer> stack = new ArrayDeque<>();
         stack.push(-1);
@@ -81,11 +81,11 @@ public class Parentheses {
     }
 
     public static void main(String[] args) {
-        System.out.println(Parentheses.isValid("({({})([])})"));
-        System.out.println(Parentheses.isValid("]"));
-        System.out.println(Parentheses.longestValidBrackets("())(())"));
-        System.out.println(Parentheses.longestValidBrackets(")()())"));
-        System.out.println(Parentheses.longestValidBracketsStack("())(())"));
-        System.out.println(Parentheses.longestValidBracketsStack(")()())"));
+        System.out.println(N20N32Parentheses.isValid("({({})([])})"));
+        System.out.println(N20N32Parentheses.isValid("]"));
+        System.out.println(N20N32Parentheses.longestValidParentheses("())(())"));
+        System.out.println(N20N32Parentheses.longestValidParentheses(")()())"));
+        System.out.println(N20N32Parentheses.longestValidParenthesesStack("())(())"));
+        System.out.println(N20N32Parentheses.longestValidParenthesesStack(")()())"));
     }
 }

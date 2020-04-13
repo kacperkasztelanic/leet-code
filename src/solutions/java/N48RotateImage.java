@@ -2,7 +2,7 @@ package solutions.java;
 
 import java.util.Arrays;
 
-public class N48 {
+public class N48RotateImage {
 
     public static void rotate(int[][] matrix) {
         transpose(matrix);
@@ -36,7 +36,7 @@ public class N48 {
     public static void main(String[] args) {
         int[][] matrix = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
         System.out.println(Arrays.deepToString(matrix));
-        N48.rotate(matrix);
+        N48RotateImage.rotate(matrix);
         System.out.println(Arrays.deepToString(matrix));
     }
 }

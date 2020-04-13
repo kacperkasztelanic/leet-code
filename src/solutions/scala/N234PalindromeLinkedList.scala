@@ -1,6 +1,6 @@
 package solutions.scala
 
-object N234 extends App {
+object N234PalindromeLinkedList extends App {
 
   //Generic with case classes
   sealed trait GenericListNode[+A]

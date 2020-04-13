@@ -1,6 +1,6 @@
 package solutions.java;
 
-public class N234 {
+public class N234PalindromeLinkedList {
 
     static class ListNode {
         int value;
@@ -37,7 +37,7 @@ public class N234 {
         ListNode l1 = ListNode.of(1, ListNode.of(2, null));
         ListNode l2 = ListNode.of(1, ListNode.of(2, ListNode.of(3, ListNode.of(2, ListNode.of(1, null)))));
 
-        N234 s = new N234();
+        N234PalindromeLinkedList s = new N234PalindromeLinkedList();
         System.out.println(s.isPalindrome(l1));
         System.out.println(s.isPalindrome(l2));
     }
