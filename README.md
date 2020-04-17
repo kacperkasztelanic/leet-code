@@ -5,8 +5,11 @@ LeetCode
 
 | # | Title | Solution | 
 |---| ----- | -------- | 
+|   1|[Two sum](https://leetcode.com/problems/two-sum/)|[Scala](src/solutions/scala/N1TwoSum.scala),[Java](src/solutions/java/N1TwoSum.java)|
+|   3|[Longest Substring Without Repeating Characters](https://leetcode.com/longest-substring-without-repeating-characters/)|[Scala](src/solutions/scala/N3LongestSubstring.scala),[Java](src/solutions/java/N3LongestSubstring.java)|
 |   7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Scala](src/solutions/scala/N7ReverseInteger.scala),[Java](src/solutions/java/N7ReverseInteger.java)|
 |   9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Scala](src/solutions/scala/N9PalindromeNumber.scala)|
+|  11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Scala](src/solutions/scala/N11ContainerWithMostWater.scala)|
 |  12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Scala](src/solutions/scala/N12N13Roman.scala)|
 |  13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Scala](src/solutions/scala/N12N13Roman.scala)|
 |  20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Scala](src/solutions/scala/N20N32Parentheses.scala),[Java](src/solutions/java/N20N32Parentheses.java)|
