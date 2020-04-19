@@ -12,6 +12,7 @@ LeetCode
 |  11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Scala](src/solutions/scala/N11ContainerWithMostWater.scala)|
 |  12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Scala](src/solutions/scala/N12N13Roman.scala)|
 |  13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Scala](src/solutions/scala/N12N13Roman.scala)|
+|  14|[LongestCommonPrefix](https://leetcode.com/problems/longest-common-prefix/)|[Scala](src/solutions/scala/N14LongestCommonPrefix.scala)|
 |  15|[3 Sum](https://leetcode.com/problems/3sum/)|[Scala](src/solutions/scala/N15ThreeSum.scala)|
 |  20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Scala](src/solutions/scala/N20N32Parentheses.scala),[Java](src/solutions/java/N20N32Parentheses.java)|
 |  21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Scala](src/solutions/scala/N21MergeTwoSortedLists.scala)|
