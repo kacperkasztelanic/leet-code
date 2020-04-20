@@ -14,6 +14,7 @@ LeetCode
 |  13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Scala](src/solutions/scala/N12N13Roman.scala)|
 |  14|[LongestCommonPrefix](https://leetcode.com/problems/longest-common-prefix/)|[Scala](src/solutions/scala/N14LongestCommonPrefix.scala)|
 |  15|[3 Sum](https://leetcode.com/problems/3sum/)|[Scala](src/solutions/scala/N15ThreeSum.scala)|
+|  17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Scala](src/solutions/scala/N17PhoneNumber.scala),[Java](src/solutions/java/N17PhoneNumber.java)|
 |  20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Scala](src/solutions/scala/N20N32Parentheses.scala),[Java](src/solutions/java/N20N32Parentheses.java)|
 |  21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Scala](src/solutions/scala/N21MergeTwoSortedLists.scala)|
 |  32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[Scala](src/solutions/scala/N20N32Parentheses.scala),[Java](src/solutions/java/N20N32Parentheses.java)|
@@ -29,3 +30,4 @@ LeetCode
 | 319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[Scala](src/solutions/scala/N319BulbSwitcher.scala)|
 | 605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Scala](src/solutions/scala/N605CanPlaceFlowers.scala)|
 | 693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Scala](src/solutions/scala/N191N693Bits.scala),[Java](src/solutions/java/N191N693Bits.java)|
+| 867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Scala](src/solutions/scala/N867TransposeMatrix.scala),[Java](src/solutions/java/N867TransposeMatrix.java)|
