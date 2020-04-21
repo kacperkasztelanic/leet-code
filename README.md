@@ -28,6 +28,10 @@ LeetCode
 | 234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Scala](src/solutions/scala/N234PalindromeLinkedList.scala),[Java](src/solutions/java/N234PalindromeLinkedList.java)|
 | 263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Scala](src/solutions/scala/N263UglyNumber.scala),[Java](src/solutions/java/N263UglyNumber.java)|
 | 319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[Scala](src/solutions/scala/N319BulbSwitcher.scala)|
+| 344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Scala](src/solutions/scala/N344ReverseString.scala),[Java](src/solutions/java/N344ReverseString.java)|
+| 509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Scala](src/solutions/scala/N509FibonacciNumber.scala),[Java](src/solutions/java/N509FibonacciNumber.java)|
 | 605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Scala](src/solutions/scala/N605CanPlaceFlowers.scala)|
 | 693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Scala](src/solutions/scala/N191N693Bits.scala),[Java](src/solutions/java/N191N693Bits.java)|
 | 867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Scala](src/solutions/scala/N867TransposeMatrix.scala),[Java](src/solutions/java/N867TransposeMatrix.java)|
+| 896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Scala](src/solutions/scala/N896MonotonicArray.scala)|
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Scala](src/solutions/scala/N1137TribonacciNumber.scala),[Java](src/solutions/java/N1137TribonacciNumber.java)|
