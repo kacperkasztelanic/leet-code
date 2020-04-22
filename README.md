@@ -22,6 +22,8 @@ LeetCode
 |  69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Scala](src/solutions/scala/N69Sqrtx.scala)|
 | 100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Scala](src/solutions/scala/N100N101Tree.scala)|
 | 101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Scala](src/solutions/scala/N100N101Tree.scala)|
+| 118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Scala](src/solutions/scala/N118N119PascalTriangle.scala),[Java](src/solutions/java/N118N119PascalTriangle.java)|
+| 119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Scala](src/solutions/scala/N118N119PascalTriangle.scala),[Java](src/solutions/java/N118N119PascalTriangle.java)|
 | 168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Scala](src/solutions/scala/N168N171ExcelColumn.scala)|
 | 171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Scala](src/solutions/scala/N168N171ExcelColumn.scala)|
 | 191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Scala](src/solutions/scala/N191N693Bits.scala),[Java](src/solutions/java/N191N693Bits.java)|
