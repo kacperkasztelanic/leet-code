@@ -20,6 +20,7 @@ LeetCode
 |  32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[Scala](src/solutions/scala/N20N32Parentheses.scala),[Java](src/solutions/java/N20N32Parentheses.java)|
 |  48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](src/solutions/java/N48RotateImage.java)|
 |  69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Scala](src/solutions/scala/N69Sqrtx.scala)|
+|  71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Scala](src/solutions/scala/N71SimplifyPath.scala),[Java](src/solutions/java/N71SimplifyPath.java)|
 | 100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Scala](src/solutions/scala/N100N101Tree.scala)|
 | 101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Scala](src/solutions/scala/N100N101Tree.scala)|
 | 118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Scala](src/solutions/scala/N118N119PascalTriangle.scala),[Java](src/solutions/java/N118N119PascalTriangle.java)|
@@ -36,4 +37,5 @@ LeetCode
 | 693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Scala](src/solutions/scala/N191N693Bits.scala),[Java](src/solutions/java/N191N693Bits.java)|
 | 867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Scala](src/solutions/scala/N867TransposeMatrix.scala),[Java](src/solutions/java/N867TransposeMatrix.java)|
 | 896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Scala](src/solutions/scala/N896MonotonicArray.scala)|
+| 917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Scala](src/solutions/scala/N917ReverseOnlyLetters.scala),[Java](src/solutions/java/N917ReverseOnlyLetters.java)|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Scala](src/solutions/scala/N1137TribonacciNumber.scala),[Java](src/solutions/java/N1137TribonacciNumber.java)|
