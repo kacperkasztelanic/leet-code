@@ -18,6 +18,7 @@ LeetCode
 |  20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Scala](src/solutions/scala/N20N32Parentheses.scala),[Java](src/solutions/java/N20N32Parentheses.java)|
 |  21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Scala](src/solutions/scala/N21MergeTwoSortedLists.scala)|
 |  32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[Scala](src/solutions/scala/N20N32Parentheses.scala),[Java](src/solutions/java/N20N32Parentheses.java)|
+|  36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Java](src/solutions/java/N36ValidSudoku.java)|
 |  48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](src/solutions/java/N48RotateImage.java)|
 |  69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Scala](src/solutions/scala/N69Sqrtx.scala)|
 |  71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Scala](src/solutions/scala/N71SimplifyPath.scala),[Java](src/solutions/java/N71SimplifyPath.java)|
