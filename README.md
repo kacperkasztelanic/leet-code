@@ -17,6 +17,7 @@ LeetCode
 |  17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Scala](src/solutions/scala/N17PhoneNumber.scala),[Java](src/solutions/java/N17PhoneNumber.java)|
 |  20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Scala](src/solutions/scala/N20N32Parentheses.scala),[Java](src/solutions/java/N20N32Parentheses.java)|
 |  21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Scala](src/solutions/scala/N21MergeTwoSortedLists.scala)|
+|  28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Scala](src/solutions/scala/N28ImplementStrStr.scala)|
 |  32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[Scala](src/solutions/scala/N20N32Parentheses.scala),[Java](src/solutions/java/N20N32Parentheses.java)|
 |  36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Scala](src/solutions/scala/N36ValidSudoku.scala),[Java](src/solutions/java/N36ValidSudoku.java)|
 |  37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Scala](src/solutions/scala/N37SudokuSolver.scala),[Java](src/solutions/java/N37SudokuSolver.java)|
