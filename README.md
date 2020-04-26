@@ -35,6 +35,8 @@ LeetCode
 | 263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Scala](src/solutions/scala/N263UglyNumber.scala),[Java](src/solutions/java/N263UglyNumber.java)|
 | 319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[Scala](src/solutions/scala/N319BulbSwitcher.scala)|
 | 344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Scala](src/solutions/scala/N344ReverseString.scala),[Java](src/solutions/java/N344ReverseString.java)|
+| 387|[First Unique Character in a String](https://leetcode.com/first-unique-character-in-a-string/)|[Scala](src/solutions/scala/N387FirstUniqueCharacter.scala),[Java](src/solutions/java/N387FirstUniqueCharacter.java)|
+| 451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Scala](src/solutions/scala/N451SortCharactersByFrequency.scala)|
 | 509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Scala](src/solutions/scala/N509FibonacciNumber.scala),[Java](src/solutions/java/N509FibonacciNumber.java)|
 | 605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Scala](src/solutions/scala/N605CanPlaceFlowers.scala)|
 | 692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Scala](src/solutions/scala/N692TopKFrequentWords.scala),[Java](src/solutions/java/N692TopKFrequentWords.java)|
