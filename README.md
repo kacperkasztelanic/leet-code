@@ -37,6 +37,7 @@ LeetCode
 | 344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Scala](src/solutions/scala/N344ReverseString.scala),[Java](src/solutions/java/N344ReverseString.java)|
 | 387|[First Unique Character in a String](https://leetcode.com/first-unique-character-in-a-string/)|[Scala](src/solutions/scala/N387FirstUniqueCharacter.scala),[Java](src/solutions/java/N387FirstUniqueCharacter.java)|
 | 451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Scala](src/solutions/scala/N451SortCharactersByFrequency.scala)|
+| 504|[Base 7](https://leetcode.com/problems/base-7/)|[Scala](src/solutions/scala/N504Base7.scala),[Java](src/solutions/java/N504Base7.java)|
 | 509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Scala](src/solutions/scala/N509FibonacciNumber.scala),[Java](src/solutions/java/N509FibonacciNumber.java)|
 | 539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Scala](src/solutions/scala/N539MinTimeDifference.scala)|
 | 605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Scala](src/solutions/scala/N605CanPlaceFlowers.scala)|
