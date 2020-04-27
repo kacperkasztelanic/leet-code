@@ -42,6 +42,7 @@ LeetCode
 | 509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Scala](src/solutions/scala/N509FibonacciNumber.scala),[Java](src/solutions/java/N509FibonacciNumber.java)|
 | 539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Scala](src/solutions/scala/N539MinTimeDifference.scala)|
 | 605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Scala](src/solutions/scala/N605CanPlaceFlowers.scala)|
+| 633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Scala](src/solutions/scala/N633SumOfSquareNumbers.scala),[Java](src/solutions/java/N633SumOfSquareNumbers.java)|
 | 692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Scala](src/solutions/scala/N692TopKFrequentWords.scala),[Java](src/solutions/java/N692TopKFrequentWords.java)|
 | 693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Scala](src/solutions/scala/N191N693Bits.scala),[Java](src/solutions/java/N191N693Bits.java)|
 | 867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Scala](src/solutions/scala/N867TransposeMatrix.scala),[Java](src/solutions/java/N867TransposeMatrix.java)|
