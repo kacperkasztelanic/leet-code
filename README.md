@@ -28,11 +28,15 @@ LeetCode
 | 101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Scala](src/solutions/scala/N100N101Tree.scala)|
 | 118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Scala](src/solutions/scala/N118N119PascalTriangle.scala),[Java](src/solutions/java/N118N119PascalTriangle.java)|
 | 119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Scala](src/solutions/scala/N118N119PascalTriangle.scala),[Java](src/solutions/java/N118N119PascalTriangle.java)|
+| 136|[Single Number](https://leetcode.com/problems/single-number/)|[Scala](src/solutions/scala/N136N137N268N287SingleNumber.scala)|
+| 137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Scala](src/solutions/scala/N136N137N268N287SingleNumber.scala)|
 | 168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Scala](src/solutions/scala/N168N171ExcelColumn.scala)|
 | 171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Scala](src/solutions/scala/N168N171ExcelColumn.scala)|
 | 191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Scala](src/solutions/scala/N191N693Bits.scala),[Java](src/solutions/java/N191N693Bits.java)|
 | 234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Scala](src/solutions/scala/N234PalindromeLinkedList.scala),[Java](src/solutions/java/N234PalindromeLinkedList.java)|
 | 263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Scala](src/solutions/scala/N263UglyNumber.scala),[Java](src/solutions/java/N263UglyNumber.java)|
+| 268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Scala](src/solutions/scala/N136N137N268N287SingleNumber.scala)|
+| 287|[Find the Duplicate Number](https://leetcode.com/find-the-duplicate-number/)|[Scala](src/solutions/scala/N136N137N268N287SingleNumber.scala)|
 | 319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[Scala](src/solutions/scala/N319BulbSwitcher.scala)|
 | 344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Scala](src/solutions/scala/N344ReverseString.scala),[Java](src/solutions/java/N344ReverseString.java)|
 | 367|[Valid Perfect Square](https://leetcode.com/valid-perfect-square/)|[Scala](src/solutions/scala/N367ValidPerfectSquare.scala),[Java](src/solutions/java/N367ValidPerfectSquare.java)|
