@@ -51,6 +51,7 @@ LeetCode
 | 693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Scala](src/solutions/scala/N191N693Bits.scala),[Java](src/solutions/java/N191N693Bits.java)|
 | 867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Scala](src/solutions/scala/N867TransposeMatrix.scala),[Java](src/solutions/java/N867TransposeMatrix.java)|
 | 896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Scala](src/solutions/scala/N896MonotonicArray.scala)|
+| 896|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Scala](src/solutions/scala/N905SortArrayByParity.scala)|
 | 917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Scala](src/solutions/scala/N917ReverseOnlyLetters.scala),[Java](src/solutions/java/N917ReverseOnlyLetters.java)|
 | 981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](src/solutions/java/N981TimeBasedStore.java)|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Scala](src/solutions/scala/N1137TribonacciNumber.scala),[Java](src/solutions/java/N1137TribonacciNumber.java)|
