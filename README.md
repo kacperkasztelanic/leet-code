@@ -53,5 +53,6 @@ LeetCode
 | 896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Scala](src/solutions/scala/N896MonotonicArray.scala)|
 | 896|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Scala](src/solutions/scala/N905SortArrayByParity.scala)|
 | 917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Scala](src/solutions/scala/N917ReverseOnlyLetters.scala),[Java](src/solutions/java/N917ReverseOnlyLetters.java)|
+| 976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Scala](src/solutions/scala/N976LargestPerimeterTriangle.scala)|
 | 981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](src/solutions/java/N981TimeBasedStore.java)|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Scala](src/solutions/scala/N1137TribonacciNumber.scala),[Java](src/solutions/java/N1137TribonacciNumber.java)|
