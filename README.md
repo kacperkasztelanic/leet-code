@@ -50,6 +50,7 @@ LeetCode
 | 633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Scala](src/solutions/scala/N633SumOfSquareNumbers.scala),[Java](src/solutions/java/N633SumOfSquareNumbers.java)|
 | 692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Scala](src/solutions/scala/N692TopKFrequentWords.scala),[Java](src/solutions/java/N692TopKFrequentWords.java)|
 | 693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Scala](src/solutions/scala/N191N693Bits.scala),[Java](src/solutions/java/N191N693Bits.java)|
+| 695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Scala](src/solutions/scala/N695MaxAreaOfIsland.scala),[Java](src/solutions/java/N695MaxAreaOfIsland.java)|
 | 867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Scala](src/solutions/scala/N867TransposeMatrix.scala),[Java](src/solutions/java/N867TransposeMatrix.java)|
 | 896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Scala](src/solutions/scala/N896MonotonicArray.scala)|
 | 896|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Scala](src/solutions/scala/N905SortArrayByParity.scala)|
