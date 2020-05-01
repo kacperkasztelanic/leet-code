@@ -29,6 +29,7 @@ LeetCode
 | 101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Scala](src/solutions/scala/N100N101Tree.scala)|
 | 118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Scala](src/solutions/scala/N118N119PascalTriangle.scala),[Java](src/solutions/java/N118N119PascalTriangle.java)|
 | 119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Scala](src/solutions/scala/N118N119PascalTriangle.scala),[Java](src/solutions/java/N118N119PascalTriangle.java)|
+| 125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Scala](src/solutions/scala/N125N680ValidPalindrome.scala),[Java](src/solutions/java/N125N680ValidPalindrome.java)|
 | 136|[Single Number](https://leetcode.com/problems/single-number/)|[Scala](src/solutions/scala/N136N137N268N287SingleNumber.scala)|
 | 137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Scala](src/solutions/scala/N136N137N268N287SingleNumber.scala)|
 | 168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Scala](src/solutions/scala/N168N171ExcelColumn.scala)|
@@ -49,6 +50,7 @@ LeetCode
 | 539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Scala](src/solutions/scala/N539MinTimeDifference.scala)|
 | 605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Scala](src/solutions/scala/N605CanPlaceFlowers.scala)|
 | 633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Scala](src/solutions/scala/N633SumOfSquareNumbers.scala),[Java](src/solutions/java/N633SumOfSquareNumbers.java)|
+| 680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Scala](src/solutions/scala/N125N680ValidPalindrome.scala),[Java](src/solutions/java/N125N680ValidPalindrome.java)|
 | 692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Scala](src/solutions/scala/N692TopKFrequentWords.scala),[Java](src/solutions/java/N692TopKFrequentWords.java)|
 | 693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Scala](src/solutions/scala/N191N693Bits.scala),[Java](src/solutions/java/N191N693Bits.java)|
 | 695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Scala](src/solutions/scala/N695MaxAreaOfIsland.scala),[Java](src/solutions/java/N695MaxAreaOfIsland.java)|
