@@ -54,9 +54,10 @@ LeetCode
 | 692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Scala](src/solutions/scala/N692TopKFrequentWords.scala),[Java](src/solutions/java/N692TopKFrequentWords.java)|
 | 693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Scala](src/solutions/scala/N191N693Bits.scala),[Java](src/solutions/java/N191N693Bits.java)|
 | 695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Scala](src/solutions/scala/N695MaxAreaOfIsland.scala),[Java](src/solutions/java/N695MaxAreaOfIsland.java)|
+| 832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Scala](src/solutions/scala/N832FlippingAnImage.scala),[Java](src/solutions/java/N832FlippingAnImage.java)|
 | 867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Scala](src/solutions/scala/N867TransposeMatrix.scala),[Java](src/solutions/java/N867TransposeMatrix.java)|
 | 896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Scala](src/solutions/scala/N896MonotonicArray.scala)|
-| 896|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Scala](src/solutions/scala/N905SortArrayByParity.scala)|
+| 905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Scala](src/solutions/scala/N905SortArrayByParity.scala)|
 | 917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Scala](src/solutions/scala/N917ReverseOnlyLetters.scala),[Java](src/solutions/java/N917ReverseOnlyLetters.java)|
 | 976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Scala](src/solutions/scala/N976LargestPerimeterTriangle.scala)|
 | 981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](src/solutions/java/N981TimeBasedStore.java)|
