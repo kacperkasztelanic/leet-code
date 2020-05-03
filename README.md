@@ -62,3 +62,4 @@ LeetCode
 | 976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Scala](src/solutions/scala/N976LargestPerimeterTriangle.scala)|
 | 981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](src/solutions/java/N981TimeBasedStore.java)|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Scala](src/solutions/scala/N1137TribonacciNumber.scala),[Java](src/solutions/java/N1137TribonacciNumber.java)|
+|1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Scala](src/solutions/scala/N1342ReduceNumberToZero.scala)|
