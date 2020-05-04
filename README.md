@@ -25,6 +25,7 @@ LeetCode
 |  48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](src/solutions/java/N48RotateImage.java)|
 |  69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Scala](src/solutions/scala/N69Sqrtx.scala)|
 |  71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Scala](src/solutions/scala/N71SimplifyPath.scala),[Java](src/solutions/java/N71SimplifyPath.java)|
+|  78|[Subsets](https://leetcode.com/problems/subsets/)|[Scala](src/solutions/scala/N78Subsets.scala),[Java](src/solutions/java/N78Subsets.java)|
 | 100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Scala](src/solutions/scala/N100N101Tree.scala)|
 | 101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Scala](src/solutions/scala/N100N101Tree.scala)|
 | 118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Scala](src/solutions/scala/N118N119PascalTriangle.scala),[Java](src/solutions/java/N118N119PascalTriangle.java)|
