@@ -7,6 +7,7 @@ LeetCode
 |---| ----- | -------- | 
 |   1|[Two sum](https://leetcode.com/problems/two-sum/)|[Scala](src/solutions/scala/N1TwoSum.scala),[Java](src/solutions/java/N1TwoSum.java)|
 |   3|[Longest Substring Without Repeating Characters](https://leetcode.com/longest-substring-without-repeating-characters/)|[Scala](src/solutions/scala/N3LongestSubstring.scala),[Java](src/solutions/java/N3LongestSubstring.java)|
+|   5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Scala](src/solutions/scala/N5LongestPalindromicSubstring.scala),[Java](src/solutions/java/N5LongestPalindromicSubstring.java)|
 |   7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Scala](src/solutions/scala/N7ReverseInteger.scala),[Java](src/solutions/java/N7ReverseInteger.java)|
 |   9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Scala](src/solutions/scala/N9PalindromeNumber.scala)|
 |  11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Scala](src/solutions/scala/N11ContainerWithMostWater.scala)|
