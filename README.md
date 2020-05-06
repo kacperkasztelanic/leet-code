@@ -52,6 +52,7 @@ LeetCode
 | 539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Scala](src/solutions/scala/N539MinTimeDifference.scala)|
 | 605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Scala](src/solutions/scala/N605CanPlaceFlowers.scala)|
 | 633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Scala](src/solutions/scala/N633SumOfSquareNumbers.scala),[Java](src/solutions/java/N633SumOfSquareNumbers.java)|
+| 674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Scala](src/solutions/scala/N674LongestContinuousIncreasingSubsequence.scala),[Java](src/solutions/java/N674LongestContinuousIncreasingSubsequence.java)|
 | 680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Scala](src/solutions/scala/N125N680ValidPalindrome.scala),[Java](src/solutions/java/N125N680ValidPalindrome.java)|
 | 692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Scala](src/solutions/scala/N692TopKFrequentWords.scala),[Java](src/solutions/java/N692TopKFrequentWords.java)|
 | 693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Scala](src/solutions/scala/N191N693Bits.scala),[Java](src/solutions/java/N191N693Bits.java)|
