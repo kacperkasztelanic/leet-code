@@ -37,6 +37,8 @@ LeetCode
 | 168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Scala](src/solutions/scala/N168N171ExcelColumn.scala)|
 | 171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Scala](src/solutions/scala/N168N171ExcelColumn.scala)|
 | 191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Scala](src/solutions/scala/N191N693Bits.scala),[Java](src/solutions/java/N191N693Bits.java)|
+| 217|[Contains Duplicate](https://leetcode.com/problems/containts-duplicate/)|[Scala](src/solutions/scala/N217ContainsDuplicate.scala)|
+| 219|[Contains Duplicate II](https://leetcode.com/problems/containts-duplicate-ii/)|[Scala](src/solutions/scala/N219ContainsDuplicateII.scala)|
 | 234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Scala](src/solutions/scala/N234PalindromeLinkedList.scala),[Java](src/solutions/java/N234PalindromeLinkedList.java)|
 | 263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Scala](src/solutions/scala/N263UglyNumber.scala),[Java](src/solutions/java/N263UglyNumber.java)|
 | 268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Scala](src/solutions/scala/N136N137N268N287SingleNumber.scala)|
