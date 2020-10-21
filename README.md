@@ -43,6 +43,7 @@ LeetCode
 | 217|[Contains Duplicate](https://leetcode.com/problems/containts-duplicate/)|[Scala](src/solutions/scala/N217ContainsDuplicate.scala)|
 | 219|[Contains Duplicate II](https://leetcode.com/problems/containts-duplicate-ii/)|[Scala](src/solutions/scala/N219ContainsDuplicateII.scala)|
 | 234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Scala](src/solutions/scala/N234PalindromeLinkedList.scala),[Java](src/solutions/java/N234PalindromeLinkedList.java)|
+| 242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Scala](src/solutions/scala/N242ValidAnagram.scala),[Java](src/solutions/java/N242ValidAnagram.java)|
 | 263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Scala](src/solutions/scala/N263UglyNumber.scala),[Java](src/solutions/java/N263UglyNumber.java)|
 | 268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Scala](src/solutions/scala/N136N137N268N287SingleNumber.scala)|
 | 287|[Find the Duplicate Number](https://leetcode.com/find-the-duplicate-number/)|[Scala](src/solutions/scala/N136N137N268N287SingleNumber.scala)|
@@ -53,7 +54,7 @@ LeetCode
 | 451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Scala](src/solutions/scala/N451SortCharactersByFrequency.scala)|
 | 463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Scala](src/solutions/scala/N463IslandPerimeter.scala),[Java](src/solutions/java/N463IslandPerimeter.java)|
 | 504|[Base 7](https://leetcode.com/problems/base-7/)|[Scala](src/solutions/scala/N504Base7.scala),[Java](src/solutions/java/N504Base7.java)|
-| 509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Scala](src/solutions/scala/N509FibonacciNumber.scala),[Java](src/solutions/java/N509FibonacciNumber.java)|
+| 509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Scala](src/solutions/scala/N509FibonacciNumber.scala),[Java](src/solutions/java/N509FibonacciNumber.java),[Kotlin](src/solutions/kotlin/N509FibonacciNumber.kt)|
 | 539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Scala](src/solutions/scala/N539MinTimeDifference.scala)|
 | 605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Scala](src/solutions/scala/N605CanPlaceFlowers.scala)|
 | 633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Scala](src/solutions/scala/N633SumOfSquareNumbers.scala),[Java](src/solutions/java/N633SumOfSquareNumbers.java)|
@@ -69,5 +70,7 @@ LeetCode
 | 917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Scala](src/solutions/scala/N917ReverseOnlyLetters.scala),[Java](src/solutions/java/N917ReverseOnlyLetters.java)|
 | 976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Scala](src/solutions/scala/N976LargestPerimeterTriangle.scala)|
 | 981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](src/solutions/java/N981TimeBasedStore.java)|
-|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Scala](src/solutions/scala/N1137TribonacciNumber.scala),[Java](src/solutions/java/N1137TribonacciNumber.java)|
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Scala](src/solutions/scala/N1137TribonacciNumber.scala),[Java](src/solutions/java/N1137TribonacciNumber.java),[Kotlin](src/solutions/kotlin/N1137TribonacciNumber.kt)|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Scala](src/solutions/scala/N1342ReduceNumberToZero.scala)|
+|1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Scala](src/solutions/scala/N1470ShuffleTheArray.scala)|
+|1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Scala](src/solutions/scala/N1528ShuffleString.scala)|
