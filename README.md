@@ -36,8 +36,8 @@ LeetCode
 | 137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Scala](src/solutions/scala/N136N137N268N287SingleNumber.scala)|
 | 150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Scala](src/solutions/scala/N150EvaluateReversePolishNotation.scala)|
 | 165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Scala](src/solutions/scala/N165CompareVersionNumbers.scala),[Java](src/solutions/java/N165CompareVersionNumbers.java)|
-| 168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Scala](src/solutions/scala/N168N171ExcelColumn.scala)|
-| 171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Scala](src/solutions/scala/N168N171ExcelColumn.scala)|
+| 168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Scala](src/solutions/scala/N168N171ExcelColumn.scala),[Java](src/solutions/java/N168N171ExcelColumn.java)|
+| 171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Scala](src/solutions/scala/N168N171ExcelColumn.scala),[Java](src/solutions/java/N168N171ExcelColumn.java)|
 | 191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Scala](src/solutions/scala/N191N693Bits.scala),[Java](src/solutions/java/N191N693Bits.java)|
 | 200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Scala](src/solutions/scala/N200NumberOfIslands.scala),[Java](src/solutions/java/N200NumberOfIslands.java)|
 | 217|[Contains Duplicate](https://leetcode.com/problems/containts-duplicate/)|[Scala](src/solutions/scala/N217ContainsDuplicate.scala)|
