@@ -11,8 +11,8 @@ LeetCode
 |   7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Scala](src/solutions/scala/N7ReverseInteger.scala),[Java](src/solutions/java/N7ReverseInteger.java)|
 |   9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Scala](src/solutions/scala/N9PalindromeNumber.scala)|
 |  11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Scala](src/solutions/scala/N11ContainerWithMostWater.scala)|
-|  12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Scala](src/solutions/scala/N12N13Roman.scala)|
-|  13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Scala](src/solutions/scala/N12N13Roman.scala)|
+|  12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Scala](src/solutions/scala/N12N13Roman.scala),[Java](src/solutions/java/N12N13Roman.java)|
+|  13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Scala](src/solutions/scala/N12N13Roman.scala),[Java](src/solutions/java/N12N13Roman.java)|
 |  14|[LongestCommonPrefix](https://leetcode.com/problems/longest-common-prefix/)|[Scala](src/solutions/scala/N14LongestCommonPrefix.scala)|
 |  15|[3 Sum](https://leetcode.com/problems/3sum/)|[Scala](src/solutions/scala/N15ThreeSum.scala)|
 |  17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Scala](src/solutions/scala/N17PhoneNumber.scala),[Java](src/solutions/java/N17PhoneNumber.java)|
