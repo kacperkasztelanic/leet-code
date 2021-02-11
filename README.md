@@ -72,5 +72,6 @@ LeetCode
 | 981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Java](src/solutions/java/N981TimeBasedStore.java)|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Scala](src/solutions/scala/N1137TribonacciNumber.scala),[Java](src/solutions/java/N1137TribonacciNumber.java),[Kotlin](src/solutions/kotlin/N1137TribonacciNumber.kt)|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Scala](src/solutions/scala/N1342ReduceNumberToZero.scala)|
+|1344|[Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|[Scala](src/solutions/scala/N1344AngleBetweenHandsOfAClock.scala),[Java](src/solutions/java/N1344AngleBetweenHandsOfAClock.java),[Kotlin](src/solutions/kotlin/N1344AngleBetweenHandsOfAClock.kt)|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Scala](src/solutions/scala/N1470ShuffleTheArray.scala)|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Scala](src/solutions/scala/N1528ShuffleString.scala)|
